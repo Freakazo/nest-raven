@@ -32,16 +32,16 @@
   },
   "homepage": "https://github.com/mentos1386/nest-raven#readme",
   "dependencies": {
-    "@sentry/minimal": "^6.0.4",
-    "@sentry/node": "^6.0.4"
+    "@sentry/minimal": "^6.8.0",
+    "@sentry/node": "^6.8.0"
   },
   "optionalDependencies": {
-    "@nestjs/graphql": "^6.2.4 || ^7.0.0"
+    "@nestjs/graphql": "^6.2.4 || ^7.0.0 || ^8.0.0"
   },
   "peerDependencies": {
-    "@nestjs/common": "^7.0.0",
+    "@nestjs/common": "^8.0.0",
     "reflect-metadata": "^0.1.12",
-    "rxjs": "^6.4.0"
+    "rxjs": "^7.2.0"
   },
   "devDependencies": {
     "@commitlint/cli": "12.1.4",
